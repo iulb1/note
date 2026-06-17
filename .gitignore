@@ -1,15 +1,15 @@
 # Obsidian 个人工作区布局（不跨设备同步）
-.obsidian/workspace.json
-.obsidian/workspace
+**/.obsidian/workspace.json
+**/.obsidian/workspace
 
 # Obsidian 缓存
-.obsidian/cache
+**/.obsidian/cache
 
 # Obsidian Git 插件自动提交信息
-.obsidian/plugins/obsidian-git/data.json
+**/.obsidian/plugins/obsidian-git/data.json
 
 # 本地 AI 工具配置
-.claudian/
+**/.claudian/
 
 # 系统文件
 Thumbs.db
