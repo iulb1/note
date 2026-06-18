@@ -19,3 +19,6 @@ Desktop.ini
 # 临时文件
 *.tmp
 *~
+
+# OctoSync 同步工具标记文件
+.octosync-*
